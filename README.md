@@ -11,7 +11,7 @@ MLPM 安装包:  https://creator.magicleap.com/downloads/lumin-sdk/unity
 详细安装流程: https://creator.magicleap.com/learn/guides/get-started-developing-in-unity
 
 Step 3. 项目设置
-导入相关包: https://creator.magicleap.com/learn/guides/unity-setup
+导入相关包: https://creator.magicleap.com/learn/guides/unity-setup<br>
 Hello Cube: https://creator.magicleap.com/learn/guides/gsg-create-your-first-unity-app
 
 Step 4. 部署与运行
